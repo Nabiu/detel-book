@@ -1,3 +1,10 @@
+---
+layout: page
+title: DBR cases
+hide: true
+permalink: /chapter/methodologies/examples/
+---
+
 # DBR cases
 
 Introductory text.
