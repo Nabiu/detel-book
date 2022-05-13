@@ -10,3 +10,7 @@ Introductory text.
 
 
     test text text
+    
+    
+ ![logo 5406ce075a0a](/assets/images/logo.5406ce075a0a.png)
+
