@@ -22,7 +22,8 @@ order: 3
 
 ## 3 TEL Methodologies
 
-M. [Design-based research (DBR)](/detel-book/chapter/methodologies/design-based-research/)
+1. [Design-based research (DBR)](/detel-book/chapter/methodologies/design-based-research/)
+    1. [Thesis examples using DBR](/detel-book/chapter/methodologies/examples/)
 
 ...
 
